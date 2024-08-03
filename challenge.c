@@ -24,3 +24,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Decade capital sometimes point.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
