@@ -10,3 +10,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Music impact accept job list act.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
