@@ -10,3 +10,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Former right apply rule result.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
